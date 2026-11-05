@@ -36,6 +36,13 @@ Soy un Ingeniero Informático de Perú, Miembro Ordinario del Colegio de Ingenie
 
 ## Proyectos Destacados
 
+**FastAPI AI Portfolio** — [Demo en vivo](https://fastapi-ai-portfolio.onrender.com/docs)
+
+API RESTful moderna con FastAPI que simula procesamiento de texto con IA y guarda historial de peticiones.
+
+- **Tecnologías:** FastAPI, SQLAlchemy, Pydantic, Uvicorn, SQLite.
+- **Demo interactiva:** [Swagger UI](https://fastapi-ai-portfolio.onrender.com/docs)
+
 **Weather API with FastAPI and Caching** — [Repositorio](https://github.com/JHON12091986/fastapi-ai-portfolio/tree/main/weather-api)
 
 API RESTful para consultar el clima de cualquier ciudad, con un sistema de caché (Redis/memoria) para respuestas ultra rápidas.
@@ -47,13 +54,6 @@ API RESTful para consultar el clima de cualquier ciudad, con un sistema de cach�
 API RESTful completa con operaciones CRUD (Crear, Leer, Actualizar, Borrar) y base de datos SQLite.
 
 - **Tecnologías:** Python, FastAPI, SQLAlchemy, SQLite, Pydantic, Uvicorn.
-
-**FastAPI AI Portfolio** — [Demo en vivo](https://fastapi-ai-portfolio.onrender.com/docs)
-
-API RESTful moderna con FastAPI que simula procesamiento de texto con IA y guarda historial de peticiones.
-
-- **Tecnologías:** FastAPI, SQLAlchemy, Pydantic, Uvicorn, SQLite.
-- **Demo interactiva:** [Swagger UI](https://fastapi-ai-portfolio.onrender.com/docs)
 
 **Mi-Bot-Trading** — [Repositorio](https://github.com/JHON12091986/mi-bot-trading)
 
